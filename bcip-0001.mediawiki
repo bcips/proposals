@@ -22,20 +22,6 @@ Those proposing changes should consider that ultimately consent may rest with th
 | cryptos4pz
 | Process
 | Proposed
-|- style="background-color: #cfffcf"
-| [[bip-0002.mediawiki|2]]
-|
-| BIP process, revised
-| Luke Dashjr
-| Process
-| Active
-|-
-| [[bip-0199.mediawiki|199]]
-| Applications
-| Hashed Time-Locked Contract transactions
-| Sean Bowe, Daira Hopwood
-| Standard
-| Draft
 |}
 
-<!-- IMPORTANT!  See the instructions at the top of this page, do NOT JUST add BIPs here! -->
+<!-- IMPORTANT!  See the instructions at the top of this page, do NOT JUST add BCIPs here! -->
